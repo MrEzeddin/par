@@ -1,0 +1,22 @@
+{
+  "name": "parkerplace",
+  "version": "1.0.0",
+  "description": "a project, i am going to make a application that lets people rent a parking space out and be able to hire a parkingspace. just like airbnb but then for parkingspaces.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrEzeddin/ParkerPlace.git"
+  },
+  "keywords": [
+    "mrpresid$nt1"
+  ],
+  "author": "Ezeddin Kamel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrEzeddin/ParkerPlace/issues"
+  },
+  "homepage": "https://github.com/MrEzeddin/ParkerPlace#readme"
+}
